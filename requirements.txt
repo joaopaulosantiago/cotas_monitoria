@@ -1,6 +1,7 @@
+psycopg2-binary
+psycopg2
 streamlit
 pandas
-psycopg2
 datetime
 PIL
 time
